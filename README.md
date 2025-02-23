@@ -7,6 +7,8 @@ The MIDI CC commands are based on the [user manual](https://cloud.waldorfmusic.c
 
 Currently, no SysEx messages are supported, however, this will perhaps be added in the future.
 
+[https://maxforlive.com/library/device/12051/blofeld-ui](https://maxforlive.com/library/device/12051/blofeld-ui)
+
 ## Modules
 
 ### Oscillators
