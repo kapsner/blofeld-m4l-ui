@@ -1,6 +1,6 @@
 # Modular Blofeld UI - Max for Live Plugin
 
-Max for Live Plugin to control the Waldorf Blofeld Synthesizer using MIDI CC commands.
+Max for Live Plugin to control the [Waldorf Blofeld Synthesizer](https://waldorfmusic.com/de/blofeld-desktop/) using MIDI CC commands.
 The user interface (UI) is built in a modular fashion, allowing to only load the Oscillator or the Filter section.
 
 The MIDI CC commands are based on the [user manual](https://cloud.waldorfmusic.com/index.php/s/kxS8Qn5ftR9Wa7w/download).
